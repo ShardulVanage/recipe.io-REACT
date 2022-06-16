@@ -8,7 +8,7 @@ https://spoonacular.com/
 <img src="1.png" alt="">
 
 
-<img src="3.png" alt="">
+<img src="https://github.com/ShardulVanage/recipe.io-REACT/blob/main/3.PNG" alt="">
 
 
 <img src="https://github.com/ShardulVanage/recipe.io-REACT/blob/main/4.PNG" alt="">
